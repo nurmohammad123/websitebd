@@ -1,0 +1,54 @@
+@media (max-width: 768px) {
+		.top-content {
+			display: block;
+			text-align: center;
+		}
+		.top-left ul {
+			display: block;
+		}
+		.top-right ul li a {
+			font-size: 11px;
+			
+		}
+		.top-right {
+			float: left;
+			margin-top: -31px;
+			margin-left: 37%;
+			text-align: center;
+		}
+
+		 .top-left ul li {
+
+		 	padding-top: 2px;
+		 	padding-bottom: 2px;
+		 	text-align: center;
+		 }
+		 .top-right {
+		 	margin-right:5px;
+
+		 }
+		 .top-bar {
+		 	height: 90px;
+
+		 }
+		 
+		 .slaider {
+    
+    	padding-top: 214px; }
+    	.slaider {
+    		height: 700px;
+    		width: 100%;
+    	}
+
+    	.slaider-content h2 {
+    		font-size: 45px;
+    	}
+    	.about {
+
+    	}
+
+
+
+
+
+}
